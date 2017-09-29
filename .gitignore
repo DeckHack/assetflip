@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# configuration
+config.json
+
+# output
+output/
